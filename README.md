@@ -1,9 +1,9 @@
-#pridict#
+
 # 📌 pridict.sol
 
 `pridict.sol` is a Solidity smart contract built for decentralized prediction functionalities. It enables users to create, participate in, and resolve prediction-based events securely on the blockchain.
 
----
+Successfully generated matching Bytecode and ABI for Contract Address [0xf0fddc86918037975a468cf544918b1e6bb236ad]
 
 ## 🚀 Features
 
